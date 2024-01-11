@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LemonHardware_Example' do
+  pod 'LemonHardware', :path => '../'
+
+  target 'LemonHardware_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
