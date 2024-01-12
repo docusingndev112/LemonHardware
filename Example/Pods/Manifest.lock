@@ -1,0 +1,16 @@
+PODS:
+  - LemonHardware (0.1.0)
+
+DEPENDENCIES:
+  - LemonHardware (from `../`)
+
+EXTERNAL SOURCES:
+  LemonHardware:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LemonHardware: f7fd0fc34357e4d903c999478d0989827e1501d1
+
+PODFILE CHECKSUM: 9457481b6a2e144a2a8a889caa577308606f7ac8
+
+COCOAPODS: 1.14.3

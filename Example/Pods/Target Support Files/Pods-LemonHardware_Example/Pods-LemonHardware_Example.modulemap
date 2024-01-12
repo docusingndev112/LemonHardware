@@ -1,0 +1,6 @@
+framework module Pods_LemonHardware_Example {
+  umbrella header "Pods-LemonHardware_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
